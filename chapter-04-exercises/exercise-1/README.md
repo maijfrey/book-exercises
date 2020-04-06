@@ -1,6 +1,8 @@
-# Exercise 1
-Using the text-edit of your choice (e.g., Atom), create a new file called `README.md`. Alternatively, you may clone this repository and edit this file.
+# Exercise 4-1 Info 201
 
-In your `README.md` document, put your favorite quote in a block quote, and provide a link to a website that provides additional information about the quote.
+```
+“You know you're in love when you can't fall asleep because
+reality is finally better than your dreams.”
 
-Note that you can preview this Markdown in Atom to make sure it works correctly.
+```
+[Dr.Seuss Quote Information](https://www.goodreads.com/quotes/7901-you-know-you-re-in-love-when-you-can-t-fall-asleep)
