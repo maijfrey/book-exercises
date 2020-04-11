@@ -1,0 +1,2 @@
+source("/Users/maifrey/Documents/book-exercises/chapter-05-exercises/exercise-1/exercise.R")
+print (my_name)
